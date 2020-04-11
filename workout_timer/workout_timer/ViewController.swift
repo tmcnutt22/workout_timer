@@ -9,12 +9,16 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBAction func startButtonTapped(_ sender: UIButton) {
+    }
+    @IBAction func resetButttonTapped(_ sender: UIButton) {
+    }
+    @IBAction func pauseButtonTapped(_ sender: UIButton) {
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
 
