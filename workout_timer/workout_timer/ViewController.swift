@@ -9,16 +9,22 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBAction func startButtonTapped(_ sender: UIButton) {
-    }
-    @IBAction func resetButttonTapped(_ sender: UIButton) {
-    }
-    @IBAction func pauseButtonTapped(_ sender: UIButton) {
+    weak var secondsPerExercise: UIDatePicker!:{
+        func UIDatePicker(_ )
     }
     
     override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-}
 
+    }
+
+//Create array to put in pickerview
+
+    
+//    @IBAction func startButtonTapped(_ sender: UIButton) {
+//    }
+//    @IBAction func resetButttonTapped(_ sender: UIButton) {
+//    }
+//    @IBAction func pauseButtonTapped(_ sender: UIButton) {
+//    }
+    
+}
